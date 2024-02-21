@@ -1,0 +1,83 @@
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.exe
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.deps.json
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.runtimeconfig.json
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.pdb
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.GenerateResource.cache
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfoInputs.cache
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfo.cs
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\refint\LoginForm.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.pdb
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.genruntimeconfig.cache
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\ref\LoginForm.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.AssemblyReference.cache
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CopyComplete
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.FormLogin.resources
+D:\Nam2\CNPM\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.Register.resources
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.exe
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.dll.config
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.deps.json
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.runtimeconfig.json
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.pdb
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.AssemblyReference.cache
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.FormLogin.resources
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.Register.resources
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.GenerateResource.cache
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfoInputs.cache
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfo.cs
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CopyComplete
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\refint\LoginForm.dll
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.pdb
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.genruntimeconfig.cache
+A:\OneDrive\Tổng hợp\Máy tính\Administrator\2023-2024\HK2\CNPM\Đồ án\LoginForm\LoginForm\obj\Debug\net8.0-windows\ref\LoginForm.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.dll.config
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.deps.json
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.runtimeconfig.json
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\LoginForm.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.FormLogin.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.Register.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\refint\LoginForm.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\LoginForm.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\LoginForm\LoginForm\obj\Debug\net8.0-windows\ref\LoginForm.dll
